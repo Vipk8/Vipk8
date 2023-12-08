@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vipk8
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m a machine learning engineer.
 - 📫 How to reach me ...By email 
 
 <!---
