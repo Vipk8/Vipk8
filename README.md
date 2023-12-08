@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vipk8
+- 👋 Hi, I’m @Vivek Pandey 
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m a machine learning engineer.
 - 📫 How to reach me ...By email 
